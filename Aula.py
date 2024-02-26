@@ -1,1 +1,1 @@
-print("pingola")
+print("")
